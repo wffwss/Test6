@@ -1,0 +1,1 @@
+include ':app', ':sendbroder', ':staticRecever', ':dynamicrecever', ':wff0506', ':wff0505', ':wff_0506', ':service', ':musicplayer'

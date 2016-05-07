@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Test6.iml" filepath="$PROJECT_DIR$/Test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicrecever/dynamicrecever.iml" filepath="$PROJECT_DIR$/dynamicrecever/dynamicrecever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musicplayer/musicplayer.iml" filepath="$PROJECT_DIR$/musicplayer/musicplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticRecever/myrecever.iml" filepath="$PROJECT_DIR$/staticRecever/myrecever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sendbroder/send.iml" filepath="$PROJECT_DIR$/sendbroder/send.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sendbroder/sendbroder.iml" filepath="$PROJECT_DIR$/sendbroder/sendbroder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticRecever/staticRecever.iml" filepath="$PROJECT_DIR$/staticRecever/staticRecever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wff0505/eziotask_0505.iml" filepath="$PROJECT_DIR$/wff0505/eziotask_0505.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wff0506/wff0506.iml" filepath="$PROJECT_DIR$/wff0506/wff0506.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wff_0506/wff_0506.iml" filepath="$PROJECT_DIR$/wff_0506/wff_0506.iml" />
+    </modules>
+  </component>
+</project>
